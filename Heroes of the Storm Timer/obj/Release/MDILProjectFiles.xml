@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <XAPFiles>
+    <File>resources.pri</File>
+    <File>Heroes of the Storm Timer.dll</File>
+    <File>fr\Heroes of the Storm Timer.resources.dll</File>
+    <File>Alarm02.wav</File>
+    <File>Assets\AlignmentGrid.png</File>
+    <File>Assets\ApplicationIcon.png</File>
+    <File>Assets\Logo.png</File>
+    <File>Assets\SquareTile150x150.png</File>
+    <File>Assets\SquareTile71x71.png</File>
+    <File>Assets\SplashScreen.png</File>
+    <File>Assets\BadgeLogo.png</File>
+    <File>Assets\StoreLogo.png</File>
+    <File>Assets\WideLogo.png</File>
+    <File>Assets\Tiles\FlipCycleTileLarge.png</File>
+    <File>Assets\Tiles\FlipCycleTileMedium.png</File>
+    <File>Assets\Tiles\FlipCycleTileSmall.png</File>
+    <File>Assets\Tiles\IconicTileMediumLarge.png</File>
+    <File>Assets\Tiles\IconicTileSmall.png</File>
+    <File>HotSicon100.png</File>
+    <File>HotSicon159.png</File>
+    <File>IconHeroes100.png</File>
+    <File>IconHeroes202.png</File>
+    <File>icon_heroes_of_the_storm.png</File>
+    <File>Images\Maps\Baie-de-coeur-noir-bannière.jpg</File>
+    <File>Images\Maps\BattleEter.png</File>
+    <File>Images\Maps\bg_battlefield-of-eternity.jpg</File>
+    <File>Images\Maps\bg_infernal-shrines.jpg</File>
+    <File>Images\Maps\BHBay.png</File>
+    <File>Images\Maps\Cursed.png</File>
+    <File>Images\Maps\CursedHollow.png</File>
+    <File>Images\Maps\dragon-shire-banner.jpg</File>
+    <File>Images\Maps\dragonshire.png</File>
+    <File>Images\f3b88ffc6d799e7c87b2148e64eeed2f_large.jpeg</File>
+    <File>Images\Maps\GardenTerrD.png</File>
+    <File>Images\Maps\GardenTerrN.png</File>
+    <File>Images\Maps\Garden_of_Terror.jpg</File>
+    <File>Images\Maps\HauntedMines.png</File>
+    <File>Images\Heroes.png</File>
+    <File>Images\Maps\HMmines.png</File>
+    <File>Images\Maps\HotS-mines.jpg</File>
+    <File>Images\Maps\InfernalShrines.png</File>
+    <File>Images\Maps\map-dragon-shire-map.jpg</File>
+    <File>Images\Maps\STMap.png</File>
+    <File>README_FIRST.txt</File>
+    <File>Images\Maps\temple-céleste.jpg</File>
+    <File>Images\Maps\Tomb_of_the_Spider_Queen2.jpg</File>
+    <File>Toolkit.Content\ApplicationBar.Add.png</File>
+    <File>Toolkit.Content\ApplicationBar.Cancel.png</File>
+    <File>Toolkit.Content\ApplicationBar.Check.png</File>
+    <File>Toolkit.Content\ApplicationBar.Delete.png</File>
+    <File>Toolkit.Content\ApplicationBar.Select.png</File>
+    <File>Images\Maps\ToSQ.png</File>
+    <File>AppManifest.xaml</File>
+    <File>Microsoft.Phone.Controls.dll</File>
+    <File>Microsoft.Phone.Controls.Toolkit.dll</File>
+    <File>HotSicon336.png</File>
+    <File>WMAppManifest.xml</File>
+    <File>AppxManifest.xml</File>
+  </XAPFiles>
+  <APPXFiles />
+</Files>

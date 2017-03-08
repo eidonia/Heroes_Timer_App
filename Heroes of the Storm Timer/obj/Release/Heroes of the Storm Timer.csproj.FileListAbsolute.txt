@@ -1,0 +1,99 @@
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Heroes of the Storm Timer.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Heroes of the Storm Timer.pdb
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\fr\Heroes of the Storm Timer.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\resources.pri
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\AppxManifest.xml
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Heroes of the Storm Timer.build.appxrecipe
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\AppManifest.xaml
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Heroes_of_the_Storm_Timer_Release_AnyCPU.xap
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes of the Storm Timer.csprojResolveAssemblyReference.cache
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\App.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\BattleEternity.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\BHBay1.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Cursed.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\DragonShire.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\GardenTerror.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\HauntedMines.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\InfernalShrines.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\MainPage.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Skytemple.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\ToSQ.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes of the Storm Timer.g.resources
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes_of_the_Storm_Timer.Resources.AppResources.resources
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes_of_the_Storm_Timer.Resources.AppResources.fr.resources
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes of the Storm Timer.csproj.GenerateResource.Cache
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\fr\Heroes of the Storm Timer.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes of the Storm Timer.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\Heroes of the Storm Timer.pdb
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\priconfig.xml
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\priconfig.xml.intermediate
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\layout.resfiles
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\layout.resfiles.intermediate
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\resources.resfiles
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\resources.resfiles.intermediate
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\pri.resfiles
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\pri.resfiles.intermediate
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\qualifiers.txt
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\qualifiers.txt.intermediate
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\ProjectArchitectures.txt
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\MDILProjectFiles.xml
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Release\XapCacheFile.xml

@@ -1,0 +1,198 @@
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes of the Storm Timer.dll
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes of the Storm Timer.pdb
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\resources.pri
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\AppxManifest.xml
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes of the Storm Timer.build.appxrecipe
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\AppManifest.xaml
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes_of_the_Storm_Timer_Debug_AnyCPU.xap
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\App.g.cs
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\MainPage.g.cs
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.g.resources
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes_of_the_Storm_Timer.Resources.AppResources.resources
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.csproj.GenerateResource.Cache
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.dll
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.pdb
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\priconfig.xml
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\priconfig.xml.intermediate
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\layout.resfiles
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\layout.resfiles.intermediate
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\resources.resfiles
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\resources.resfiles.intermediate
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\pri.resfiles
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\pri.resfiles.intermediate
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\qualifiers.txt
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\qualifiers.txt.intermediate
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\ProjectArchitectures.txt
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\MDILProjectFiles.xml
+c:\users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\XapCacheFile.xml
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.csprojResolveAssemblyReference.cache
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\BHBay1.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Cursed.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\HauntedMines.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\ToSQ.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\DragonShire.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fr\Heroes of the Storm Timer.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Skytemple.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes_of_the_Storm_Timer.Resources.AppResources.fr.resources
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\fr\Heroes of the Storm Timer.resources.dll
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\BattleEternity.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\InfernalShrines.g.cs
+C:\Users\bastien\documents\visual studio 2015\Projects\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\GardenTerror.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\ApplicationIcon.png
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes of the Storm Timer.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes of the Storm Timer.pdb
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fr\Heroes of the Storm Timer.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\resources.pri
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\AppxManifest.xml
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes of the Storm Timer.build.appxrecipe
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Properties\WMAppManifest.xml
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\AppManifest.xaml
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Heroes_of_the_Storm_Timer_Debug_AnyCPU.xap
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Microsoft.Phone.Controls.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\Bin\Debug\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.csprojResolveAssemblyReference.cache
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\App.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\BattleEternity.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\BHBay1.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Cursed.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\DragonShire.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\GardenTerror.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\HauntedMines.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\InfernalShrines.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\MainPage.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Skytemple.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\ToSQ.g.cs
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.g.resources
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes_of_the_Storm_Timer.Resources.AppResources.resources
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes_of_the_Storm_Timer.Resources.AppResources.fr.resources
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.csproj.GenerateResource.Cache
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\fr\Heroes of the Storm Timer.resources.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.dll
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\Heroes of the Storm Timer.pdb
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\priconfig.xml
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\priconfig.xml.intermediate
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\layout.resfiles
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\layout.resfiles.intermediate
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\resources.resfiles
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\resources.resfiles.intermediate
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\pri.resfiles
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\pri.resfiles.intermediate
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\qualifiers.txt
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\qualifiers.txt.intermediate
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\ProjectArchitectures.txt
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\MDILProjectFiles.xml
+E:\Choupinou\Heroes of the Storm Timer\Heroes of the Storm Timer\obj\Debug\XapCacheFile.xml

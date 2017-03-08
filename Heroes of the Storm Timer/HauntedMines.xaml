@@ -1,0 +1,100 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Heroes_of_the_Storm_Timer.HauntedMines"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.IsVisible="False">
+
+    <!--LayoutRoot contains the root grid where all other page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush Stretch="Fill" ImageSource="Images\f3b88ffc6d799e7c87b2148e64eeed2f_large.jpeg"/>
+        </Grid.Background>
+        <phone:Panorama Title="Haunted Mines" Margin="10,10,-10,-10">
+
+            <!--Panorama item one-->
+            <phone:PanoramaItem Header="Objectives">
+                <Grid Margin="0,0,-2,0">
+                    <ScrollViewer>
+                        <StackPanel>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto" MinHeight="181"/>
+                                    <RowDefinition/>
+                                </Grid.RowDefinitions>
+                                <Image Stretch="Fill" Grid.Row="0" Source="Images\Maps\HauntedMines.png" Margin="0,0,10,192"/>
+                                <Image Stretch="Fill" Grid.Row="0" Source="Images\Maps\HMmines.png" VerticalAlignment="Bottom" Margin="94.967,0,99.768,2.539" Height="182.431" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto">
+                                    <Image.RenderTransform>
+                                        <CompositeTransform Rotation="-359.692"/>
+                                    </Image.RenderTransform>
+                                </Image>
+                                <TextBlock Grid.Row="1" Text="- Venture Underground" Margin="0 20 0 0" TextWrapping="Wrap" FontSize="35"/>
+                                <TextBlock Grid.Row="1" Text="The Haunted Mines will periodically open with an undead army underneath." Margin="0 60 0 0" TextWrapping="Wrap" FontSize="20"/>
+                                <TextBlock Grid.Row="1" Text="- Collect the skulls" Margin="0 120 0 0" TextWrapping="Wrap" FontSize="35"/>
+                                <TextBlock Grid.Row="1" Text="Destroy the undead army and collect their skulls to power your Golems!" Margin="0 160 0 0" TextWrapping="Wrap" FontSize="20"/>
+                                <TextBlock Grid.Row="1" Text="- unleash the Golems" Margin="0 220 0 0" TextWrapping="Wrap" FontSize="35"/>
+                                <TextBlock Grid.Row="1" Text="After the army has been defeated, the Golems will arise for both teams! The more skulls your team collects, the stronger your Golem." Margin="0,260,0,50" TextWrapping="Wrap" FontSize="20"/>
+                            </Grid>
+                        </StackPanel>
+                    </ScrollViewer>
+
+                </Grid>
+            </phone:PanoramaItem>
+
+            <!--Panorama item two-->
+            <phone:PanoramaItem Header="Tips">
+                <Grid>
+                    <ScrollViewer>
+                        <StackPanel>
+                            <TextBlock Text="- Giants camps (easy) spawn at 2 minutes and, when a team takes them, they respawn 3 minutes later." FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text="- Knights camp (hard) spawn at 2 minutes and, when a team takes it, he respawns 4 minutes later." FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text="- Warning for mines spawns at 90 sec and mines open 30 secondes after. Mines open again 90 secondes after the last golem dies." FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text="- There is 100 skulls in Mines. More skulls you and your team collect, stronger is your golem." FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text="- There is 70 skulls on undead army and 30 skulls on golem. " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text="- You can go in Mines when you want after the first opening. " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                            <TextBlock Text=" " FontSize="20" TextWrapping="Wrap"/>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PanoramaItem>
+
+            <!--Panorama item three-->
+            <phone:PanoramaItem Header="Timers">
+                <Grid>
+                    <ScrollViewer>
+                        <StackPanel Height="684">
+                            <MediaElement x:Name="Ring" Source="/Alarm02.wav" AutoPlay="False"/>
+                            <TextBlock x:Name="Giants" Height="32" Margin="0,0,0,0" TextWrapping="Wrap" Text="Giants camps" VerticalAlignment="Top" FontSize="21.333"/>
+                            <Button x:Name="button" Content="Start" Height="62" Margin="150,-45,150,0" VerticalAlignment="Top" FontSize="14.667" RenderTransformOrigin="0.516,-0.746" Tap="button_Tap"/>
+                            <TextBlock x:Name="Timer" Height="45" Margin="300,-55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="35" RenderTransformOrigin="0.688,0.48"/>
+                            <Button x:Name="button2" Content="Start" Height="62" Margin="150,-10,150,0" VerticalAlignment="Top" FontSize="14.667" RenderTransformOrigin="0.516,-0.746" Tap="button2_Tap"/>
+                            <TextBlock x:Name="Timer2" Height="45" Margin="300,-55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="35" RenderTransformOrigin="0.688,0.48"/>
+                            <TextBlock x:Name="Knights" Height="32" Margin="0,10,0,0" TextWrapping="Wrap" Text="Knights camps" VerticalAlignment="Top" FontSize="21.333"/>
+                            <Button x:Name="buttonK" Content="Start" Height="62" Margin="150,-45,150,0" VerticalAlignment="Top" FontSize="14.667" RenderTransformOrigin="0.516,-0.746" Tap="buttonK_Tap"/>
+                            <TextBlock x:Name="TimerK" Height="45" Margin="300,-55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="35" RenderTransformOrigin="0.688,0.48"/>
+                            <TextBlock x:Name="Mines" Height="32" Margin="0,10,0,0" TextWrapping="Wrap" Text="Mines" VerticalAlignment="Top" FontSize="21.333"/>
+                            <Button x:Name="buttonM" Content="Start" Height="62" Margin="150,-45,150,0" VerticalAlignment="Top" FontSize="14.667" RenderTransformOrigin="0.516,-0.746" Tap="buttonM_Tap"/>
+                            <TextBlock x:Name="TimerM" Height="45" Margin="300,-55,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="35" RenderTransformOrigin="0.688,0.48"/>
+
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </phone:PanoramaItem>
+        </phone:Panorama>
+    </Grid>
+
+</phone:PhoneApplicationPage>
